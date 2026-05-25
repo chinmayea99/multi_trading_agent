@@ -29,7 +29,7 @@ STOCKS = [
     "NESTLEIND.NS",
     "BRITANNIA.NS",
     "MARUTI.NS",
-    "TATAMOTORS.NS",
+    "EICHERMOT.NS",
     "BAJAJ-AUTO.NS",
     "M&M.NS",
 ]
@@ -53,7 +53,7 @@ STOCK_NAMES = {
     "NESTLEIND.NS":   "Nestle India",
     "BRITANNIA.NS":   "Britannia Industries",
     "MARUTI.NS":      "Maruti Suzuki",
-    "TATAMOTORS.NS":  "Tata Motors",
+    "EICHERMOT.NS":   "Eicher Motors",
     "BAJAJ-AUTO.NS":  "Bajaj Auto",
     "M&M.NS":         "Mahindra & Mahindra",
 }
@@ -77,7 +77,7 @@ BSE_CODES = {
     "NESTLEIND.NS":   "500790",
     "BRITANNIA.NS":   "500825",
     "MARUTI.NS":      "532500",
-    "TATAMOTORS.NS":  "500570",
+    "EICHERMOT.NS":   "505200",
     "BAJAJ-AUTO.NS":  "532977",
     "M&M.NS":         "500520",
 }
