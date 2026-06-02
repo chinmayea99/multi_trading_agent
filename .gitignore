@@ -1,5 +1,46 @@
-.env
+.DS_Store
+
+# Virtual environment
 trading_env/
+env/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
 __pycache__/
 *.pyc
-.DS_Store 
+*.pyo
+*.egg-info/
+.Python
+
+# Data files (too large for Git)
+data/prices/
+data/news/
+data/raw_news/
+data/raw_bse/
+data/events/*.csv
+!data/events/*.csv.template
+
+# Logs and temp files
+logs/
+*.log
+.cache/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated reports
+validation_report.txt
+results/
+experiments/
+
+# OS
+Thumbs.db 
