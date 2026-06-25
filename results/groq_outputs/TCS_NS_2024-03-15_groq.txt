@@ -1,0 +1,18 @@
+ANALYST REPORT — TCS.NS — 2024-03-15
+──────────────────────────────────
+TREND ANALYSIS:
+The trend appears to be mildly bullish, with the stock price above its SMA_20 and SMA_50, and the RSI_14 indicating a mildly bullish signal. The recent price momentum is positive, with a 1-Day Change of +0.82%. However, the 5-Day Change is -1.24%, suggesting some volatility.
+
+KEY LEVELS:
+Support  : ₹3,730.00  |  Resistance: ₹3,960.00
+These levels matter as they represent the Bollinger Bands, which may indicate potential price boundaries for the stock.
+
+NEWS SENTIMENT:
+The news sentiment is Positive, with the headline "TCS bags ₹2,200 crore deal" indicating a significant contract win. This may have a positive impact on the stock.
+
+RISKS & OPPORTUNITIES:
+Risk        : Revenue growth missing estimates, as seen in the Q3 FY24 results.
+Opportunity : The ₹2,200 crore deal from a European bank may signal future growth.
+
+OVERALL MARKET VIEW:
+The overall market view is Cautiously Bullish, driven by the mildly bullish technical indicators and positive news sentiment. However, the risk of revenue growth missing estimates may temper this optimism, suggesting a need for cautiousness in the near term.

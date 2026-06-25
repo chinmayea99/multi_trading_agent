@@ -1,0 +1,18 @@
+ANALYST REPORT — INFY.NS — 2025-02-20
+──────────────────────────────────
+TREND ANALYSIS:
+The trend appears to be bullish, with the stock's recent close of ₹1,847.60 being above its SMA_20 and SMA_50 levels of ₹1,792.40 and ₹1,754.20, respectively. The 1-Day Change of +0.68% and 5-Day Change of +3.42% also suggest positive price momentum. The MACD signal of +22.8 and histogram of +5.5 further indicate a bullish trend.
+
+KEY LEVELS:
+Support  : ₹1,665.00  |  Resistance: ₹1,920.00
+These levels matter as they represent the Bollinger Band lower and upper limits, respectively, which may act as key support and resistance levels for the stock.
+
+NEWS SENTIMENT:
+The news sentiment is Positive, with a relevant headline being "Infosys raises FY25 revenue guidance". This suggests a positive impact on the stock, driven by increased revenue growth expectations.
+
+RISKS & OPPORTUNITIES:
+Risk        : RBI's future rate decisions may impact corporate earnings sentiment.
+Opportunity : Strong deal wins and raised revenue guidance may drive stock growth.
+
+OVERALL MARKET VIEW:
+The overall market view is Bullish, driven by the company's strong deal wins, raised revenue guidance, and positive technical indicators. The primary reason is the company's improved revenue growth outlook, which suggests a positive trajectory for the stock.

@@ -1,0 +1,35 @@
+Test — HDFCBANK — 2024-06-03
+====================================================================
+
+ANALYST REPORT — HDFCBANK.NS — 2024-06-03
+──────────────────────────────────
+TREND ANALYSIS:
+The trend appears to be bearish, with the stock's recent price momentum indicating a decline of -0.84% and -2.93% over the 1-day and 5-day periods, respectively. The SMA_20 and SMA_50 are also higher than the current price, suggesting a downward alignment. The MACD and RSI_14 indicators further support this bearish view.
+
+KEY LEVELS:
+Support  : ₹1,440.00  |  Resistance: ₹1,610.00
+These levels matter as they represent the Bollinger Bands, with the stock price currently trading below the upper band and above the lower band, indicating potential volatility.
+
+NEWS SENTIMENT:
+The headline tone is Negative, with "NIM compression" being a key concern. This may signal a negative impact on the stock.
+
+RISKS & OPPORTUNITIES:
+Risk        : NIM compression continuing in future quarters
+Opportunity : Potential rebound if the stock reaches oversold levels, as indicated by the RSI_14 approaching 30
+
+OVERALL MARKET VIEW:
+The overall market view is Cautiously Bearish, primarily due to the ongoing NIM compression and negative news sentiment. The stock's technical indicators and recent price action also support this view, suggesting a potential continuation of the downward trend.
+
+====================================================================
+EVALUATION SUMMARY
+====================================================================
+  PASS  structure_all_sections
+  PASS  word_count_in_range
+  PASS  stance_keyword_present
+  PASS  no_hallucinated_numbers
+  PASS  no_lookahead_data
+  PASS  uses_hedged_language
+
+Word count  : 187
+Exec time   : 1.69s
+Cache hit   : N/A

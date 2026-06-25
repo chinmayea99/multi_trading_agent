@@ -39,10 +39,18 @@ logs/
 
 # Generated reports
 validation_report.txt
-results/
+results/**
 experiments/
 
 # OS
 Thumbs.db 
 
 cache/
+
+# results/ — track summary files, ignore bulk outputs
+!results/model_comparison.csv
+!results/comparison_report.txt
+!results/groq_outputs/
+!results/groq_outputs/**
+!results/reports/
+!results/reports/**

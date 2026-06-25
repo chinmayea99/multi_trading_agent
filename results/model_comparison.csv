@@ -1,0 +1,6 @@
+stock,date,gemini_words,groq_words,gemini_time_s,groq_time_s,gemini_view,groq_view,gemini_halluc,groq_halluc,gemini_hedges,groq_hedges,gemini_total,groq_total,gemini_analysis_quality,gemini_factual_accuracy,gemini_hallucination_risk,gemini_response_length,gemini_reasoning_depth,gemini_format_consistency,gemini_execution_speed,groq_analysis_quality,groq_factual_accuracy,groq_hallucination_risk,groq_response_length,groq_reasoning_depth,groq_format_consistency,groq_execution_speed
+TCS.NS,2024-03-15,200,181,9.0,1.8,CAUTIOUSLY BULLISH,CAUTIOUSLY BULLISH,0,0,3,2,30.2,29.8,3.8,5.0,5.0,5.0,2.4,5.0,4.0,3.2,5.0,5.0,5.0,1.6,5.0,5.0
+RELIANCE.NS,2024-04-10,195,179,9.0,1.1,CAUTIOUSLY BULLISH,CAUTIOUSLY BULLISH,0,0,4,4,31.6,32.6,4.4,5.0,5.0,5.0,3.2,5.0,4.0,4.4,5.0,5.0,5.0,3.2,5.0,5.0
+HDFCBANK.NS,2024-06-03,215,166,9.0,1.5,CAUTIOUSLY BEARISH,CAUTIOUSLY BEARISH,0,0,2,2,28.8,29.8,3.2,5.0,5.0,5.0,1.6,5.0,4.0,3.2,5.0,5.0,5.0,1.6,5.0,5.0
+INFY.NS,2025-02-20,199,196,9.0,1.4,CAUTIOUSLY BULLISH,BULLISH,0,0,5,3,33.0,31.2,5.0,5.0,5.0,5.0,4.0,5.0,4.0,3.8,5.0,5.0,5.0,2.4,5.0,5.0
+MARUTI.NS,2025-05-08,221,175,9.0,1.4,CAUTIOUSLY BULLISH,CAUTIOUSLY BULLISH,0,0,6,5,33.8,34.0,5.0,5.0,5.0,5.0,4.8,5.0,4.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0

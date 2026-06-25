@@ -1,0 +1,35 @@
+Test — MARUTI — 2025-05-08
+====================================================================
+
+ANALYST REPORT — MARUTI.NS — 2025-05-08
+──────────────────────────────────
+TREND ANALYSIS:
+The trend appears to be bullish, with the stock price above its SMA_20 and SMA_50 levels, indicating a positive momentum. The recent price action also suggests a strong upward movement, with a 1-Day Change of +1.09% and a 5-Day Change of +4.27%. The MACD signal also indicates a strongly bullish trend.
+
+KEY LEVELS:
+Support  : ₹11,038.00  |  Resistance: ₹12,810.00
+These levels matter as they represent the Bollinger Bands, with the stock price currently trading near the upper band, suggesting a potential pullback.
+
+NEWS SENTIMENT:
+The news sentiment is Positive, with headlines such as "Maruti April 2025 sales up". This suggests a positive impact on the stock, driven by strong sales growth.
+
+RISKS & OPPORTUNITIES:
+Risk        : Overbought zone (>70) RSI_14 level, which may signal a pullback.
+Opportunity : Potential GST cut on hybrid vehicles, which could boost Maruti's hybrid lineup margins.
+
+OVERALL MARKET VIEW:
+The overall market view is Cautiously Bullish, driven by strong sales growth and positive news sentiment. However, the overbought RSI_14 level and potential pullback risk suggest a need for caution, making it essential to monitor the stock's price action closely.
+
+====================================================================
+EVALUATION SUMMARY
+====================================================================
+  PASS  structure_all_sections
+  PASS  word_count_in_range
+  PASS  stance_keyword_present
+  PASS  no_hallucinated_numbers
+  PASS  no_lookahead_data
+  PASS  uses_hedged_language
+
+Word count  : 193
+Exec time   : 1.89s
+Cache hit   : N/A

@@ -1,0 +1,35 @@
+Test — RELIANCE — 2024-04-10
+====================================================================
+
+ANALYST REPORT — RELIANCE.NS — 2024-04-10
+──────────────────────────────────
+TREND ANALYSIS:
+The trend appears to be bullish, with the stock's recent close of ₹2,941.80 being above its SMA_20 and SMA_50 levels of ₹2,874.60 and ₹2,823.40, respectively. The 1-Day Change of +0.75% and 5-Day Change of +2.18% also suggest positive price momentum. The RSI_14 of 67.8 indicates the stock is approaching the overbought zone.
+
+KEY LEVELS:
+Support  : ₹2,760.00  |  Resistance: ₹2,990.00
+These levels matter as they represent the Bollinger Band boundaries, with the stock trading within this range.
+
+NEWS SENTIMENT:
+The news sentiment is Positive, with headlines like "Reliance Jio IPO filing likely". This may have a positive impact on the stock.
+
+RISKS & OPPORTUNITIES:
+Risk        : Oil-to-chemicals segment margins under pressure
+Opportunity : Potential Reliance Jio IPO in H2 FY25 could unlock value
+
+OVERALL MARKET VIEW:
+The overall market view is Cautiously Bullish, driven by the positive news sentiment and the stock's recent price momentum. However, the risk of declining oil-to-chemicals segment margins may temper the bullish outlook.
+
+====================================================================
+EVALUATION SUMMARY
+====================================================================
+  PASS  structure_all_sections
+  PASS  word_count_in_range
+  PASS  stance_keyword_present
+  PASS  no_hallucinated_numbers
+  PASS  no_lookahead_data
+  PASS  uses_hedged_language
+
+Word count  : 167
+Exec time   : 1.55s
+Cache hit   : N/A

@@ -1,0 +1,102 @@
+[
+  {
+    "stock": "TCS.NS",
+    "date": "2024-03-15",
+    "label": "TCS",
+    "model": "groq/llama-3.3-70b-versatile",
+    "word_count": 181,
+    "n_sections": 5,
+    "missing_sections": [],
+    "stance_found": true,
+    "halluc_flags": [],
+    "elapsed_s": 1.78,
+    "scores": {
+      "format_compliance": 5.0,
+      "response_length": 5.0,
+      "hallucination": 5.0,
+      "speed": 5.0,
+      "stance_clarity": 5.0,
+      "TOTAL_OUT_OF_5": 5.0
+    }
+  },
+  {
+    "stock": "RELIANCE.NS",
+    "date": "2024-04-10",
+    "label": "RELIANCE",
+    "model": "groq/llama-3.3-70b-versatile",
+    "word_count": 179,
+    "n_sections": 5,
+    "missing_sections": [],
+    "stance_found": true,
+    "halluc_flags": [],
+    "elapsed_s": 1.06,
+    "scores": {
+      "format_compliance": 5.0,
+      "response_length": 5.0,
+      "hallucination": 5.0,
+      "speed": 5.0,
+      "stance_clarity": 5.0,
+      "TOTAL_OUT_OF_5": 5.0
+    }
+  },
+  {
+    "stock": "HDFCBANK.NS",
+    "date": "2024-06-03",
+    "label": "HDFCBANK",
+    "model": "groq/llama-3.3-70b-versatile",
+    "word_count": 166,
+    "n_sections": 5,
+    "missing_sections": [],
+    "stance_found": true,
+    "halluc_flags": [],
+    "elapsed_s": 1.53,
+    "scores": {
+      "format_compliance": 5.0,
+      "response_length": 5.0,
+      "hallucination": 5.0,
+      "speed": 5.0,
+      "stance_clarity": 5.0,
+      "TOTAL_OUT_OF_5": 5.0
+    }
+  },
+  {
+    "stock": "INFY.NS",
+    "date": "2025-02-20",
+    "label": "INFY",
+    "model": "groq/llama-3.3-70b-versatile",
+    "word_count": 196,
+    "n_sections": 5,
+    "missing_sections": [],
+    "stance_found": true,
+    "halluc_flags": [],
+    "elapsed_s": 1.36,
+    "scores": {
+      "format_compliance": 5.0,
+      "response_length": 5.0,
+      "hallucination": 5.0,
+      "speed": 5.0,
+      "stance_clarity": 5.0,
+      "TOTAL_OUT_OF_5": 5.0
+    }
+  },
+  {
+    "stock": "MARUTI.NS",
+    "date": "2025-05-08",
+    "label": "MARUTI",
+    "model": "groq/llama-3.3-70b-versatile",
+    "word_count": 175,
+    "n_sections": 5,
+    "missing_sections": [],
+    "stance_found": true,
+    "halluc_flags": [],
+    "elapsed_s": 1.41,
+    "scores": {
+      "format_compliance": 5.0,
+      "response_length": 5.0,
+      "hallucination": 5.0,
+      "speed": 5.0,
+      "stance_clarity": 5.0,
+      "TOTAL_OUT_OF_5": 5.0
+    }
+  }
+]

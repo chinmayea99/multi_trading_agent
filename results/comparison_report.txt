@@ -1,0 +1,19 @@
+GEMINI vs GROQ ANALYST AGENT COMPARISON REPORT
+Generated: 2026-06-25 23:43:22
+======================================================================
+
+Gemini 2.5 Flash   avg score: 31.5/35
+Groq Llama 3.3 70B avg score: 31.5/35
+Overall winner (by score):    TIE
+Speed winner:                 GROQ (6.2x faster)
+
+Per-test results:
+  TCS.NS 2024-03-15:  Gemini=30.2/35  Groq=29.8/35  G_view=CAUTIOUSLY BULLISH  Q_view=CAUTIOUSLY BULLISH  [AGREE]
+  RELIANCE.NS 2024-04-10:  Gemini=31.6/35  Groq=32.6/35  G_view=CAUTIOUSLY BULLISH  Q_view=CAUTIOUSLY BULLISH  [AGREE]
+  HDFCBANK.NS 2024-06-03:  Gemini=28.8/35  Groq=29.8/35  G_view=CAUTIOUSLY BEARISH  Q_view=CAUTIOUSLY BEARISH  [AGREE]
+  INFY.NS 2025-02-20:  Gemini=33.0/35  Groq=31.2/35  G_view=CAUTIOUSLY BULLISH  Q_view=BULLISH  [DIFFER]
+  MARUTI.NS 2025-05-08:  Gemini=33.8/35  Groq=34.0/35  G_view=CAUTIOUSLY BULLISH  Q_view=CAUTIOUSLY BULLISH  [AGREE]
+
+Thesis Recommendation:
+  Use Groq (Llama 3.3 70B) for the full backtest pipeline.
+  Use Gemini 2.5 Flash for thesis validation runs requiring highest accuracy.
